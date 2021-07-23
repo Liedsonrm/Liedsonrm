@@ -4,5 +4,5 @@ My name is Liedson Ribeiro, i'm from Brazil :brazil: I'm a software student, sin
 - 🏡 From PB, João Pessoa
 - 🖥️ Focused on Back-End study 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liedsonrm&layout=compact&title_color=4B0082&bg_color=222222&text_color=DDDDDD)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liedsonrm&layout=compact&title_color=4B0082&bg_color=1C1C1C&text_color=DDDDDD)](https://github.com/anuraghazra/github-readme-stats)
 
